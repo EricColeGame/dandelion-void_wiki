@@ -43,288 +43,362 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to Dandelion Void? Learn the controls, the core survival loop, and the first steps that get your run off to a confident start."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Survival Guide",
+          "description": "Stay alive through the first night cycle with scouting habits, the 3-2-1 stockpile rule, and a shelter plan that beats the dark."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Crafting Guide",
+          "description": "Turn salvage into tools, weapons, and gear with a repeatable gather, refine, combine, and upgrade routine."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Dandelion Void."
+          "title": "Base Building Guide",
+          "description": "Raise a safe refuge inside the derelict arkship, from a one-room camp to a network of satellite shelters."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending in Dandelion Void",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Survival Guide",
+        "Crafting Guide",
+        "Multiplayer"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Dandelion Void Beginner Guide",
+          "description": "Everything you need for your first hours aboard the arkship, from controls to a simple first-week checklist.",
+          "href": "/guide/dandelion-void-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Survival Guide",
+          "description": "First-hour priorities, the 3-2-1 stockpile rule, and the mistakes that end Dandelion Void runs early.",
+          "href": "/guide/dandelion-void-survival-guide"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Crafting Guide",
+          "description": "Material planning, the four-stage crafting loop, and how to spend resources on upgrades that matter.",
+          "href": "/guide/dandelion-void-crafting-guide"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Base Building Guide",
+          "description": "Camp, outpost, base, and shelter network tiers for surviving long term inside the generation ship.",
+          "href": "/guide/dandelion-void-base-building-guide"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Creatures & Enemies",
+          "description": "Dandelion Void creature archetypes, behavior tells, and how to read them in the field.",
+          "href": "/lore/dandelion-void-creatures"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Multiplayer & Co-op",
+          "description": "How to find sessions, build a team, communicate, and fix connection problems in Dandelion Void multiplayer.",
+          "href": "/multiplayer/dandelion-void-multiplayer"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Release Date & Platforms",
+          "description": "What is confirmed about the Dandelion Void release window and the platforms it will launch on.",
+          "href": "/release/dandelion-void-release-date"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Steam Page & Price",
+          "description": "Storefront details, editions, and pricing for Dandelion Void on Steam.",
+          "href": "/release/dandelion-void-price"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Tips & Tricks",
+          "description": "Practical Dandelion Void tips for smoother runs, faster gathering, and fewer wasted resources.",
+          "href": "/guide/dandelion-void-tips"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Dandelion Void?",
       "paragraphs": [
-        "Dandelion Void is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Dandelion Void is a sci-fi survival crafting game developed by Manzanita Interactive and published by Kwalee. You wake aboard a derelict arkship drifting between the stars, where jungle-choked corridors have overgrown with alien flora and the skeletal remains of your ancestors are yours to scavenge.",
+        "Play solo or team up with friends in online co-op, forage resources, craft whatever weapons you can, and build a refuge that keeps you alive. Our Dandelion Void wiki gathers survival guides, crafting recipes, base-building tips, creature lore, and release information so you can survive your first night and push deeper into the ship."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Manzanita Interactive"
+        },
+        {
+          "label": "Publisher",
+          "value": "Kwalee"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam (PC)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Sci-Fi Survival Crafting"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release",
+          "value": "2027"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Players",
+          "value": "Solo & Online Co-op"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Dandelion Void Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Dandelion Void Wiki",
+      "description": "Eight deep-dive hubs covering survival, crafting, base building, creatures, and every core system aboard the arkship.",
       "modules": [
         {
           "order": 1,
-          "name": "Dandelion Void Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/dandelion-void-codes",
-          "displayType": "code-box",
+          "name": "Dandelion Void Survival Guide",
+          "description": "A first-hour survival plan for Dandelion Void: how to scout, gather, shelter, and avoid the mistakes that end runs early.",
+          "href": "/guide/dandelion-void-survival-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scout a loop around your spawn before committing to a direction, and note three landmarks you can run back to."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Craft basic tools early so gathering stops being a hand-only bottleneck and speeds up every later trip."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Secure a repeatable food and water source instead of relying on a one-off meal."
+            },
+            {
+              "label": "4",
+              "detail": "Place a minimal shelter, one room with a sleep spot and storage, before the light drops."
+            },
+            {
+              "label": "5",
+              "detail": "Keep a 3-2-1 stockpile: three days of consumables, two stacks of building material, one stack of rare items."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/dandelion-void-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Dandelion Void Crafting Guide",
+          "description": "How the Dandelion Void crafting loop works, from raw salvage to finished gear, and how to plan upgrades instead of hoarding.",
+          "href": "/guide/dandelion-void-crafting-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Gather",
+              "detail": "Collect only the raw materials your current target recipe actually needs."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Refine",
+              "detail": "Batch-refine raw materials after every few runs instead of one item at a time."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Combine",
+              "detail": "Commit to one build at a time and keep a backup plan for shared components."
+            },
+            {
+              "label": "Upgrade",
+              "detail": "Improve gear you use in real fights, and test each craft in the content that blocked you."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/dandelion-void-tier-list",
-          "displayType": "tier-grid",
+          "name": "Dandelion Void Base Building Guide",
+          "description": "Build a refuge inside the abandoned arkship, from a crude camp to a full base with crafting stations and satellite shelters.",
+          "href": "/guide/dandelion-void-base-building-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Camp",
+              "detail": "One room, a sleep spot, and storage for a safe respawn point."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Outpost",
+              "detail": "Walls, a door, and water access for longer expeditions."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Base",
+              "detail": "Crafting stations and organized storage for tier upgrades."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Network",
+              "detail": "Satellite shelters that shorten travel across the ship."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/dandelion-void-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Dandelion Void Items Guide",
+          "description": "A reference for the tools, weapons, food, and materials you salvage aboard the Dandelion Void arkship, and what each is worth keeping.",
+          "href": "/mechanics/dandelion-void-crafting",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Salvage",
+              "detail": "Common raw material for early tools, repairs, and bulk recipes."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Tools",
+              "detail": "Gathering gear that multiplies the speed of every later trip."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Weapons",
+              "detail": "Crafted weapons for the hostile jungle and the night cycle."
+            },
+            {
+              "label": "Medicine",
+              "detail": "Consumables that clear status effects before they compound."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/dandelion-void-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Dandelion Void Creatures Guide",
+          "description": "Meet the creatures drifting through the Dandelion Void: their archetypes, behavior tells, and how to read them in the field.",
+          "href": "/lore/dandelion-void-creatures",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Shepherds: rare, large forms that guide smaller creatures and carry the heaviest lore implications."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Chorusers: clustered creatures that move and react as a single mass."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Bloomers: multi-layered forms that expand when observed and contract when ignored."
+            },
+            {
+              "label": "C",
+              "detail": "Drifters: small seed-heads that float in straight lines and ignore the player."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/dandelion-void-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Dandelion Void Multiplayer Guide",
+          "description": "How to play Dandelion Void with friends: finding sessions, building a team, communicating, and fixing connection problems.",
+          "href": "/multiplayer/dandelion-void-multiplayer",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Co-op",
+              "detail": "Team up online to split gathering, building, and exploring."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Roles",
+              "detail": "Point, support, and scout roles form naturally in a good group."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Lobbies",
+              "detail": "Private lobbies with a host and backup host keep sessions stable."
+            },
+            {
+              "label": "Chat",
+              "detail": "Call out what you see; shared information beats raw skill."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dandelion Void Character Guide",
+          "description": "Understand your place aboard the Dandelion Void arkship: the lineage, backstory, and world that shape your survivor.",
+          "href": "/lore/dandelion-void-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lineage",
+              "detail": "Your ancestors crewed the arkship; their remains are the ruins you explore."
+            },
+            {
+              "label": "Backstory",
+              "detail": "The ship drifted between the stars long before you woke aboard it."
+            },
+            {
+              "label": "World",
+              "detail": "Jungle-choked halls and alien flora now cover the derelict corridors."
+            },
+            {
+              "label": "Mystery",
+              "detail": "Uncovering what happened to the lost civilization drives the story."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dandelion Void News and Updates",
+          "description": "Track Dandelion Void development: official announcements, demos, playtests, roadmap notes, and release progress.",
+          "href": "/community/dandelion-void-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "A playable demo lets you try the survival loop before launch."
+            },
+            {
+              "label": "Playtest",
+              "detail": "Playtests give early access to builds and balance changes."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Official roadmap posts outline upcoming features and milestones."
+            },
+            {
+              "label": "Launch",
+              "detail": "Dandelion Void is aiming for a 2027 release on Steam."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Dandelion Void FAQ",
       "description": "Quick answers to the most common questions about Dandelion Void.",
       "items": [
         {
           "question": "What is Dandelion Void?",
-          "answer": "Dandelion Void is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Dandelion Void is a sci-fi survival crafting game from Manzanita Interactive, published by Kwalee. You explore a derelict arkship overgrown with alien jungle, scavenge resources, craft weapons, and build a refuge while uncovering what happened to the ship's lost crew."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Dandelion Void multiplayer?",
+          "answer": "Yes. Dandelion Void supports single-player as well as online co-op and PvP, so you can survive the arkship solo or team up with friends."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When does Dandelion Void release?",
+          "answer": "Dandelion Void is still in development with a release window of 2027. You can wishlist it on Steam to be notified when a firm Dandelion Void release date is announced."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What platforms is Dandelion Void on?",
+          "answer": "Dandelion Void is confirmed for PC via Steam, including Steam Workshop support. Console versions have not been confirmed yet."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How much will Dandelion Void cost?",
+          "answer": "A final Dandelion Void price has not been announced. Check the official Steam page for pricing and edition details as launch approaches."
+        },
+        {
+          "question": "Does Dandelion Void have codes?",
+          "answer": "No. Dandelion Void is a paid survival crafting game on Steam rather than a free-to-play experience, so there are no redeem codes or code rewards to claim."
         }
       ]
     },
