@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "mechanics": "Mechanics",
+    "multiplayer": "Multiplayer",
+    "lore": "Lore",
+    "platforms": "Platforms",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -409,12 +416,37 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Dandelion Void Guides",
+    "overviewDescription": "Beginner-friendly Dandelion Void guides covering survival, crafting, base building, and a clean checklist for your first hours aboard the arkship."
+  },
+  "release": {
+    "overviewTitle": "Dandelion Void Release Info",
+    "overviewDescription": "Everything confirmed about the Dandelion Void release date, early access, demo, playtest, price, and Steam page."
+  },
+  "mechanics": {
+    "overviewTitle": "Dandelion Void Mechanics",
+    "overviewDescription": "How Dandelion Void actually plays: survival systems, the sandbox loop, base building, crafting, and the comfort system explained."
+  },
+  "multiplayer": {
+    "overviewTitle": "Dandelion Void Multiplayer",
+    "overviewDescription": "Dandelion Void multiplayer and co-op guides: how to play with friends, host a session, and fix connection problems."
+  },
+  "lore": {
+    "overviewTitle": "Dandelion Void Lore",
+    "overviewDescription": "Dandelion Void lore, story, creatures, and enemies — the ruined generation ship and everything living inside it."
+  },
+  "platforms": {
+    "overviewTitle": "Dandelion Void Platforms",
+    "overviewDescription": "Where to play Dandelion Void: PS5, Nintendo Switch, console, and download details as they are confirmed."
+  },
+  "community": {
+    "overviewTitle": "Dandelion Void Community",
+    "overviewDescription": "Dandelion Void community hubs: Discord, Reddit, news, and the roadmap for tracking every update."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -425,7 +457,13 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "latestUpdates": "Latest Updates",
+    "newsTitle": "Dandelion Void News",
+    "newsTeaser": "Where updates surface and how to spot rumors fast.",
+    "roadmapTitle": "Dandelion Void Roadmap",
+    "roadmapTeaser": "How to read developer updates without the noise.",
+    "viewAllUpdates": "View all updates"
   },
   "footer": {
     "aboutTitle": "Dandelion Void Wiki",
@@ -440,10 +478,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanics": "Mechanics",
+    "lore": "Lore & Creatures",
+    "multiplayer": "Multiplayer"
   }
 }
