@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@DandelionVoid",
     website: "https://dandelionvoid.com",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "es", "ru"],
   defaultLocale: "en",
 };
