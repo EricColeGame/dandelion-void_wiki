@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "Dandelion Void Wiki",
+    "shortName": "Dandelion Void",
+    "tagline": "Überlebensratgeber, Handwerk & Schifferkundung",
+    "description": "Dandelion Void ist ein Sci-Fi-Überlebens- und Crafting-Spiel, das in einem verfallenen Generationenschiff spielt. Spieler erkunden überwucherte Raumschiffkorridore, sammeln Ressourcen, fertigen Ausrüstung, bauen Unterkünfte und lüften die Geheimnisse einer verlorenen Zivilisation.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Leitfaden",
+    "release": "Veröffentlichung",
+    "mechanics": "Mechaniken",
+    "multiplayer": "Mehrspieler",
+    "lore": "Lore",
+    "platforms": "Plattformen",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Dandelion Void Wiki – Leitfäden, Handwerk & Überleben",
+      "description": "Das Dandelion Void Wiki bietet Überlebensratgeber, Crafting-Tipps, Gameplay-Informationen, Charakterdetails und Erkundungsstrategien für dieses Sci-Fi-Weltraum-Überlebensspiel."
+    },
+    "hero": {
+      "eyebrow": "Sci-Fi-Überlebens- und Crafting-Spiel",
+      "title": "Dandelion Void Wiki",
+      "description": "Dandelion Void ist ein Sci-Fi-Überlebens- und Crafting-Spiel, das in einem verfallenen Generationenschiff spielt. Spieler erkunden überwucherte Raumschiffkorridore, sammeln Ressourcen, fertigen Ausrüstung, bauen Unterkünfte und lüften die Geheimnisse einer verlorenen Zivilisation.",
+      "stats": [
+        "25K+ Steam-Wunschlisten-Einträge",
+        "1 spielbare Demo",
+        "0 aktive Codes",
+        "Wöchentliche Entwickler-Updates"
+      ],
+      "primaryCta": "Anfängerleitfaden",
+      "secondaryCta": "Crafting-Leitfäden",
+      "tertiaryCta": "Auf Steam wünschen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Dandelion-Void-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerleitfaden",
+          "description": "Neu bei Dandelion Void? Lerne die Steuerung, die grundlegende Überlebensschleife und die ersten Schritte, die deinen Durchlauf souverän beginnen lassen."
+        },
+        {
+          "number": "2",
+          "title": "Überlebensleitfaden",
+          "description": "Überlebe den ersten Nachtzyklus mit Erkundungsroutinen, der 3-2-1-Vorratsregel und einem Unterkunftsplan, der die Dunkelheit besiegt."
+        },
+        {
+          "number": "3",
+          "title": "Crafting-Leitfaden",
+          "description": "Verwandle Schrott in Werkzeuge, Waffen und Ausrüstung mit einer wiederholbaren Routine aus Sammeln, Veredeln, Kombinieren und Verbessern."
+        },
+        {
+          "number": "4",
+          "title": "Bauleitfaden",
+          "description": "Errichte einen sicheren Zufluchtsort im havarierten Arche-Schiff, vom Ein-Raum-Lager bis zu einem Netz aus Satellitenunterkünften."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Angesagt in Dandelion Void",
+      "quickLinks": [
+        "Anfängerleitfaden",
+        "Überlebensleitfaden",
+        "Crafting-Leitfaden",
+        "Mehrspieler"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Dandelion Void Anfängerleitfaden",
+          "description": "Alles, was du für deine ersten Stunden an Bord des Arche-Schiffs brauchst, von der Steuerung bis zu einer einfachen Checkliste für die erste Woche.",
+          "href": "/guide/dandelion-void-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Überlebensleitfaden",
+          "description": "Prioritäten der ersten Stunde, die 3-2-1-Vorratsregel und die Fehler, die Dandelion-Void-Durchläufe früh beenden.",
+          "href": "/guide/dandelion-void-survival-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Crafting-Leitfaden",
+          "description": "Materialplanung, die vierstufige Crafting-Schleife und wie du Ressourcen für wirklich wichtige Upgrades ausgibst.",
+          "href": "/guide/dandelion-void-crafting-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Bauleitfaden",
+          "description": "Lager, Außenposten, Basis und Unterkunftsnetz als Stufen für langfristiges Überleben im Generationenschiff.",
+          "href": "/guide/dandelion-void-base-building-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kreaturen & Feinde",
+          "description": "Kreaturenarchetypen in Dandelion Void, Verhaltenshinweise und wie du sie im Feld liest.",
+          "href": "/lore/dandelion-void-creatures"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Mehrspieler & Koop",
+          "description": "Wie du Sitzungen findest, ein Team aufbaust, kommunizierst und Verbindungsprobleme im Dandelion-Void-Mehrspieler behebst.",
+          "href": "/multiplayer/dandelion-void-multiplayer"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Erscheinungsdatum & Plattformen",
+          "description": "Was über das Veröffentlichungsfenster von Dandelion Void und die Plattformen bestätigt ist, auf denen es erscheint.",
+          "href": "/release/dandelion-void-release-date"
+        },
+        {
+          "badge": "Neu",
+          "title": "Steam-Seite & Preis",
+          "description": "Shop-Details, Editionen und Preisgestaltung für Dandelion Void auf Steam.",
+          "href": "/release/dandelion-void-price"
+        },
+        {
+          "badge": "Neu",
+          "title": "Tipps & Tricks",
+          "description": "Praktische Dandelion-Void-Tipps für reibungslosere Durchläufe, schnelleres Sammeln und weniger verschwendete Ressourcen.",
+          "href": "/guide/dandelion-void-tips"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Dandelion Void?",
+      "paragraphs": [
+        "Dandelion Void ist ein Sci-Fi-Überlebens- und Crafting-Spiel, entwickelt von Manzanita Interactive und veröffentlicht von Kwalee. Du erwachst an Bord eines havarierten Arche-Schiffs, das zwischen den Sternen treibt, wo dschungelüberwucherte Korridore von außerirdischer Flora überzogen sind und die sterblichen Überreste deiner Vorfahren darauf warten, von dir geborgen zu werden.",
+        "Spiele allein oder schließe dich mit Freunden im Online-Koop zusammen, sammle Ressourcen, fertige alle Waffen, die du kannst, und baue einen Zufluchtsort, der dich am Leben hält. Unser Dandelion-Void-Wiki sammelt Überlebensratgeber, Crafting-Rezepte, Tipps zum Basisbau, Kreaturen-Lore und Release-Informationen, damit du deine erste Nacht überlebst und tiefer in das Schiff vordringst."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Manzanita Interactive"
+        },
+        {
+          "label": "Herausgeber",
+          "value": "Kwalee"
+        },
+        {
+          "label": "Plattform",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "Genre",
+          "value": "Sci-Fi-Überlebens-Crafting"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "2027"
+        },
+        {
+          "label": "Spieler",
+          "value": "Solo & Online-Koop"
+        }
+      ],
+      "cta": "Alle Leitfäden erkunden"
+    },
+    "explore": {
+      "title": "Erkunde das Dandelion-Void-Wiki",
+      "description": "Acht tiefgehende Bereiche zu Überleben, Crafting, Basisbau, Kreaturen und jedem Kernsystem an Bord des Arche-Schiffs.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Dandelion Void Überlebensleitfaden",
+          "description": "Ein Überlebensplan für die erste Stunde in Dandelion Void: wie du erkundest, sammelst, Schutz suchst und die Fehler vermeidest, die Durchläufe früh beenden.",
+          "href": "/guide/dandelion-void-survival-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erkunde eine Runde um deinen Startpunkt, bevor du dich für eine Richtung entscheidest, und merke dir drei Orientierungspunkte, zu denen du zurücklaufen kannst."
+            },
+            {
+              "label": "2",
+              "detail": "Fertige früh einfache Werkzeuge, damit das Sammeln nicht länger ein reiner Handgriff bleibt und jede spätere Tour schneller wird."
+            },
+            {
+              "label": "3",
+              "detail": "Sichere dir eine wiederholbare Nahrungs- und Wasserquelle, statt dich auf eine einmalige Mahlzeit zu verlassen."
+            },
+            {
+              "label": "4",
+              "detail": "Stelle eine minimale Unterkunft auf, einen Raum mit Schlafplatz und Lager, bevor das Licht schwindet."
+            },
+            {
+              "label": "5",
+              "detail": "Halte einen 3-2-1-Vorrat: drei Tage Verbrauchsgüter, zwei Stapel Baumaterial, ein Stapel seltener Gegenstände."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Dandelion Void Crafting-Leitfaden",
+          "description": "Wie die Crafting-Schleife in Dandelion Void funktioniert, vom Rohschrott bis zur fertigen Ausrüstung, und wie du Upgrades planst, statt zu horten.",
+          "href": "/guide/dandelion-void-crafting-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Sammeln",
+              "detail": "Sammle nur die Rohmaterialien, die dein aktuelles Zielrezept tatsächlich braucht."
+            },
+            {
+              "label": "Veredeln",
+              "detail": "Veredle Rohmaterialien in Chargen nach ein paar Touren, statt jeweils nur einen Gegenstand."
+            },
+            {
+              "label": "Kombinieren",
+              "detail": "Konzentriere dich jeweils auf einen Build und halte einen Backup-Plan für gemeinsame Komponenten bereit."
+            },
+            {
+              "label": "Verbessern",
+              "detail": "Verbessere Ausrüstung, die du in echten Kämpfen nutzt, und teste jedes Craft in den Inhalten, die dich blockiert haben."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dandelion Void Bauleitfaden",
+          "description": "Baue einen Zufluchtsort im verlassenen Arche-Schiff, von einem rohen Lager bis zu einer vollen Basis mit Crafting-Stationen und Satellitenunterkünften.",
+          "href": "/guide/dandelion-void-base-building-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lager",
+              "detail": "Ein Raum, ein Schlafplatz und Lager für einen sicheren Wiederbelebungspunkt."
+            },
+            {
+              "label": "Außenposten",
+              "detail": "Wände, eine Tür und Wasserzugang für längere Expeditionen."
+            },
+            {
+              "label": "Basis",
+              "detail": "Crafting-Stationen und organisierte Lagerung für Stufen-Upgrades."
+            },
+            {
+              "label": "Netzwerk",
+              "detail": "Satellitenunterkünfte, die Reisen über das Schiff verkürzen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Dandelion Void Gegenstandsleitfaden",
+          "description": "Eine Referenz für die Werkzeuge, Waffen, Nahrung und Materialien, die du an Bord des Dandelion-Void-Arche-Schiffs birgst, und was davon es wert ist, behalten zu werden.",
+          "href": "/mechanics/dandelion-void-crafting",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Schrott",
+              "detail": "Häufiges Rohmaterial für frühe Werkzeuge, Reparaturen und Massenrezepte."
+            },
+            {
+              "label": "Werkzeuge",
+              "detail": "Sammelausrüstung, die die Geschwindigkeit jeder späteren Tour vervielfacht."
+            },
+            {
+              "label": "Waffen",
+              "detail": "Gefertigte Waffen für den feindseligen Dschungel und den Nachtzyklus."
+            },
+            {
+              "label": "Medizin",
+              "detail": "Verbrauchsgüter, die Statuseffekte beseitigen, bevor sie sich häufen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Dandelion Void Kreaturenleitfaden",
+          "description": "Begegne den Kreaturen, die durch die Dandelion Void treiben: ihre Archetypen, Verhaltenshinweise und wie du sie im Feld liest.",
+          "href": "/lore/dandelion-void-creatures",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hirten: seltene, große Formen, die kleinere Kreaturen leiten und die schwerwiegendsten Lore-Implikationen tragen."
+            },
+            {
+              "label": "A",
+              "detail": "Choruser: gruppierte Kreaturen, die sich als eine einzige Masse bewegen und reagieren."
+            },
+            {
+              "label": "B",
+              "detail": "Blüher: mehrschichtige Formen, die sich ausdehnen, wenn sie beobachtet werden, und zusammenziehen, wenn sie ignoriert werden."
+            },
+            {
+              "label": "C",
+              "detail": "Treibende: kleine Samenköpfe, die in geraden Linien schweben und den Spieler ignorieren."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dandelion Void Mehrspieler-Leitfaden",
+          "description": "Wie du Dandelion Void mit Freunden spielst: Sitzungen finden, ein Team aufbauen, kommunizieren und Verbindungsprobleme beheben.",
+          "href": "/multiplayer/dandelion-void-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Koop",
+              "detail": "Schließe dich online zusammen, um Sammeln, Bauen und Erkunden aufzuteilen."
+            },
+            {
+              "label": "Rollen",
+              "detail": "Point-, Support- und Scout-Rollen entstehen in einer guten Gruppe von selbst."
+            },
+            {
+              "label": "Lobbys",
+              "detail": "Private Lobbys mit einem Host und Ersatz-Host halten Sitzungen stabil."
+            },
+            {
+              "label": "Chat",
+              "detail": "Sag an, was du siehst; geteilte Informationen schlagen rohes Können."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dandelion Void Charakterleitfaden",
+          "description": "Verstehe deinen Platz an Bord des Dandelion-Void-Arche-Schiffs: die Abstammung, Hintergrundgeschichte und Welt, die deinen Überlebenden prägen.",
+          "href": "/lore/dandelion-void-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Abstammung",
+              "detail": "Deine Vorfahren bemannten das Arche-Schiff; ihre Überreste sind die Ruinen, die du erkundest."
+            },
+            {
+              "label": "Hintergrundgeschichte",
+              "detail": "Das Schiff trieb lange zwischen den Sternen, bevor du an Bord erwachtest."
+            },
+            {
+              "label": "Welt",
+              "detail": "Dschungelüberwucherte Hallen und außerirdische Flora bedecken nun die verfallenen Korridore."
+            },
+            {
+              "label": "Geheimnis",
+              "detail": "Die Aufdeckung dessen, was mit der verlorenen Zivilisation geschah, treibt die Geschichte voran."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dandelion Void News und Updates",
+          "description": "Verfolge die Entwicklung von Dandelion Void: offizielle Ankündigungen, Demos, Playtests, Roadmap-Notizen und Release-Fortschritt.",
+          "href": "/community/dandelion-void-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "Eine spielbare Demo lässt dich die Überlebensschleife vor dem Start ausprobieren."
+            },
+            {
+              "label": "Playtest",
+              "detail": "Playtests bieten frühen Zugang zu Builds und Balance-Änderungen."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Offizielle Roadmap-Beiträge skizzieren kommende Funktionen und Meilensteine."
+            },
+            {
+              "label": "Start",
+              "detail": "Dandelion Void strebt eine Veröffentlichung 2027 auf Steam an."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Dandelion Void FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Dandelion Void.",
+      "items": [
+        {
+          "question": "Was ist Dandelion Void?",
+          "answer": "Dandelion Void ist ein Sci-Fi-Überlebens- und Crafting-Spiel von Manzanita Interactive, veröffentlicht von Kwalee. Du erkundest ein havariertes Arche-Schiff, das von außerirdischem Dschungel überwuchert ist, birgst Ressourcen, fertigst Waffen und baust einen Zufluchtsort, während du aufdeckst, was mit der verlorenen Besatzung des Schiffs geschah."
+        },
+        {
+          "question": "Hat Dandelion Void Mehrspieler?",
+          "answer": "Ja. Dandelion Void unterstützt Einzelspieler sowie Online-Koop und PvP, sodass du das Arche-Schiff allein überlebst oder dich mit Freunden zusammenschließt."
+        },
+        {
+          "question": "Wann erscheint Dandelion Void?",
+          "answer": "Dandelion Void befindet sich noch in Entwicklung mit einem Veröffentlichungsfenster von 2027. Du kannst es auf Steam auf die Wunschliste setzen, um benachrichtigt zu werden, wenn ein festes Erscheinungsdatum für Dandelion Void angekündigt wird."
+        },
+        {
+          "question": "Auf welchen Plattformen erscheint Dandelion Void?",
+          "answer": "Dandelion Void ist für PC über Steam bestätigt, einschließlich Steam-Workshop-Unterstützung. Konsolenversionen wurden noch nicht bestätigt."
+        },
+        {
+          "question": "Wie viel wird Dandelion Void kosten?",
+          "answer": "Ein endgültiger Preis für Dandelion Void wurde noch nicht angekündigt. Prüfe die offizielle Steam-Seite für Preis- und Editionsdetails, wenn der Start näher rückt."
+        },
+        {
+          "question": "Hat Dandelion Void Codes?",
+          "answer": "Nein. Dandelion Void ist ein kostenpflichtiges Überlebens- und Crafting-Spiel auf Steam und kein Free-to-Play-Erlebnis, daher gibt es keine Einlöse-Codes oder Code-Belohnungen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Dandelion Void zu erkunden?",
+      "description": "Von deinen ersten Schritten an Bord des ruinierten Generationenschiffs bis zum Endgame-Crafting und Überleben – unser Community-Wiki bietet dir kostenlose, aktuelle Leitfäden.",
+      "primary": "Lies den Anfängerleitfaden",
+      "secondary": "Auf Steam wünschen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Dandelion Void Leitfäden",
+    "overviewDescription": "Anfängerfreundliche Dandelion-Void-Leitfäden zu Überleben, Crafting, Basisbau und einer klaren Checkliste für deine ersten Stunden an Bord des Arche-Schiffs."
+  },
+  "release": {
+    "overviewTitle": "Dandelion Void Release-Infos",
+    "overviewDescription": "Alles Bestätigte zum Erscheinungsdatum, Early Access, zur Demo, zum Playtest, Preis und zur Steam-Seite von Dandelion Void."
+  },
+  "mechanics": {
+    "overviewTitle": "Dandelion Void Mechaniken",
+    "overviewDescription": "Wie sich Dandelion Void tatsächlich spielt: Überlebenssysteme, die Sandbox-Schleife, Basisbau, Crafting und das Komfortsystem erklärt."
+  },
+  "multiplayer": {
+    "overviewTitle": "Dandelion Void Mehrspieler",
+    "overviewDescription": "Mehrspieler- und Koop-Leitfäden für Dandelion Void: wie du mit Freunden spielst, eine Sitzung hostest und Verbindungsprobleme behebst."
+  },
+  "lore": {
+    "overviewTitle": "Dandelion Void Lore",
+    "overviewDescription": "Dandelion-Void-Lore, Geschichte, Kreaturen und Feinde – das ruinierte Generationenschiff und alles, was darin lebt."
+  },
+  "platforms": {
+    "overviewTitle": "Dandelion Void Plattformen",
+    "overviewDescription": "Wo du Dandelion Void spielen kannst: PS5, Nintendo Switch, Konsole und Download-Details, sobald sie bestätigt sind."
+  },
+  "community": {
+    "overviewTitle": "Dandelion Void Community",
+    "overviewDescription": "Community-Anlaufstellen zu Dandelion Void: Discord, Reddit, News und die Roadmap, um jedes Update zu verfolgen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "updated": "Aktualisiert",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!",
+    "latestUpdates": "Neueste Updates",
+    "newsTitle": "Dandelion Void News",
+    "newsTeaser": "Wo Updates auftauchen und wie du Gerüchte schnell erkennst.",
+    "roadmapTitle": "Dandelion Void Roadmap",
+    "roadmapTeaser": "Wie du Entwickler-Updates ohne Lärm liest.",
+    "viewAllUpdates": "Alle Updates anzeigen"
+  },
+  "footer": {
+    "aboutTitle": "Dandelion Void Wiki",
+    "about": "Das Dandelion Void Wiki ist eine unabhängige, von Fans erstellte Anlaufstelle mit Überlebensmechaniken, Crafting, Basisbau, Kreaturen und wichtigem Spielwissen für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Dandelion Void Wiki. Nicht mit den Entwicklern oder Herausgebern des Spiels verbunden.",
+    "description": "Sci-Fi-Überlebens- und Crafting-Spiel in einem ruinierten Generationenschiff.",
+    "playGame": "Auf Steam wünschen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Website",
+    "beginnerGuide": "Anfängerleitfaden",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "mechanics": "Mechaniken",
+    "lore": "Lore & Kreaturen",
+    "multiplayer": "Mehrspieler"
+  }
+}
